@@ -1,5 +1,5 @@
 {
-  "name": "nico",
+  "name": "nico-spm",
   "version": "0.5.2",
   "preferGlobal": "true",
   "description": "Nico is a front-end friendly static site generator",
